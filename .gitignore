@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+packages/
+publish/
+.cache/
+Thumbs.db
+Desktop.ini
+.DS_Store
